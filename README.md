@@ -1,4 +1,4 @@
-# ganesh-demo
+# Projects-Data Science
 
 this is my first project
 <br>
